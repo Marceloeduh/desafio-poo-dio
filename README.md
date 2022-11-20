@@ -1,7 +1,8 @@
 <h1 align="center"> Desafio-POO-Dio </h1>
 
 
-<  h2 >  Técnicas e Tecnologias utilizadas <h2>
+<h2> Técnicas e Tecnologias utilizadas:
+  
   
 Java
 Intellij IDEA
