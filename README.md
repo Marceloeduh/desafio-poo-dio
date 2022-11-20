@@ -4,6 +4,9 @@
 <h2> Técnicas e Tecnologias utilizadas:
   
 <h4>  
+  
 Java
-Intellij IDEA
+  
+Intelllij IDEA
+  
 Paradigma de Orientação a Objetos
